@@ -1,6 +1,6 @@
 {
   "name": "node-shutdown-events",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "xyzzy",
   "main": "lib",
   "repository": {
@@ -8,9 +8,9 @@
     "url": "https://github.com/UberEther/node-shutdown-events.git"
   },
   "author": {
-	"name": "Michael Samblanet",
-	"email": "samblanetm@uberether.com",
-	"url": "http://github.com/msamblanet/"
+    "name": "Michael Samblanet",
+    "email": "samblanetm@uberether.com",
+    "url": "http://github.com/msamblanet/"
   },
   "license": "MIT",
   "bugs": {
