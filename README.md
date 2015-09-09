@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/node-shutdown-events.svg)](http://badge.fury.io/js/node-shutdown-events)
+
 # Overview
 
 This library provides orderly shutdown for Node.js with ordered shutdown and asynchronous shutdown actions using event listeners.
