@@ -1,4 +1,5 @@
-[![npm version](https://badge.fury.io/js/node-shutdown-events.svg)](http://badge.fury.io/js/node-shutdown-events)
+[![Build Status](https://travis-ci.org/UberEther/node-shutdown-events.svg?branch=master)](https://travis-ci.org/UberEther/node-shutdown-events)
+[![NPM Status](https://badge.fury.io/js/node-shutdown-events.svg)](http://badge.fury.io/js/node-shutdown-events)
 
 # Overview
 
