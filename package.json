@@ -19,14 +19,15 @@
   "homepage": "https://github.com/UberEther/node-shutdown-events",
   "scripts": {
     "test": "mocha",
-    "test-cov": "istanbul cover --config test/istanbul.yml node_modules/mocha/bin/_mocha"
+    "test-cov": "istanbul cover --config test/istanbul.yml node_modules/mocha/bin/_mocha",
+    "prepublish": "coffee -o lib -c lib/*.coffee"
   },
   "dependencies": {
-    "coffee-script": "^1.9.2",
     "bluebird": "^2.9.13",
     "debug": "^2.2.0"
   },
   "devDependencies": {
+    "coffee-script": "^1.9.2",
     "mocha": "^2.3.0",
     "chai": "^3.2.0",
     "rewire": "^2.3.4",
